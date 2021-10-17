@@ -4,6 +4,6 @@ public class PrimeiroPrograma {
 		Gato gato = new Gato();
 		System.out.println(gato);
 		System.out.println("Testando");
-		System.out.println("Testando");
+		System.out.println("Testando 2");
 	}
 }
